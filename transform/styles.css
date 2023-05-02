@@ -1,0 +1,13 @@
+body{
+    border: 2px solid green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+h1{
+    position: absolute;
+    transform: rotateZ(90deg) translateX(1rem) translateY(5rem)
+}
